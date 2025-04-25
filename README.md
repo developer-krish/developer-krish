@@ -28,7 +28,8 @@ I'm a passionate developer from India 🇮🇳, specializing in front-end develo
 
 ## </> LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/krishgupta_21?theme=dark&font=serif)
+https://leetcard.jacoblin.cool/<krishgupta_21>
+
 
 
 ## 📫 Connect with Me
