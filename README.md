@@ -22,12 +22,6 @@ I'm a passionate developer from India 🇮🇳, specializing in front-end develo
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
 
-## 📈 GitHub Stats
-
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer-krish&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-krish&layout=compact&theme=radical)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-gupta-19104a1b5//)
