@@ -24,8 +24,6 @@ I'm a passionate developer from India 🇮🇳, specializing in front-end develo
 
 ## 📈 GitHub Stats
 
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer-krish&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-krish&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
