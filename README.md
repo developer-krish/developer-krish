@@ -28,6 +28,7 @@ I'm a passionate developer from India 🇮🇳, specializing in front-end develo
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-800080?style=for-the-badge&logo=code&logoColor=white)
 
 ## 📈 GitHub Stats
 
