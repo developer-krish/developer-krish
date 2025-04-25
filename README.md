@@ -33,9 +33,6 @@ I'm a passionate developer from India 🇮🇳, specializing in front-end develo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-krish&layout=compact&theme=radical)
 
-## 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/krishgupta_21?ext=contest&theme=dark)
 
 ## 📫 Connect with Me
 
