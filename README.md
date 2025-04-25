@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Krish
 
-![Profile Views](https://komarev.com/ghpvc/?username=developer-krish&color=blue)
-
 ## 🚀 About Me
 
 I'm a passionate developer from India 🇮🇳, specializing in front-end development and creating intuitive user experiences.
