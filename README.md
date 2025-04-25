@@ -26,6 +26,11 @@ I'm a passionate developer from India 🇮🇳, specializing in front-end develo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-krish&layout=compact&theme=radical)
 
+## </> LeetCode Stats
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/krishgupta_21?theme=dark&font=serif)
+
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-gupta-19104a1b5//)
