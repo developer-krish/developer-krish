@@ -30,5 +30,5 @@ I'm a passionate developer from India 🇮🇳, specializing in front-end develo
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-krish/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/developer_krish)
+[![LinkedIn](https://www.linkedin.com/in/krish-gupta-19104a1b5//)
+[![Twitter](https://x.com/Krishhgupta21)
