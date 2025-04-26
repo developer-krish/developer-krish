@@ -4,7 +4,7 @@
 
 I'm a passionate developer from India 🇮🇳, specializing in front-end development and creating intuitive user experiences.
 
-- 🔭 I’m currently working on IMS
+- 🔭 I’m currently working on project Inventory Management System & Intrusion Detection System
 - 🌱 I’m learning React and Tailwind CSS
 - 💬 Ask me about JavaScript, HTML, CSS
 - 📫 How to reach me: [krishgupta.udh@gmail.com](mailto:krishgupta.udh@gmail.com)
